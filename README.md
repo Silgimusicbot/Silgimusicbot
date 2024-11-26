@@ -40,8 +40,7 @@ I am a software developer and technology enthusiast. I actively work in software
 ## 🛠️ My Projects
 
 - [Project 1](https://github.com/silgimusicbot/SilgiUserbot) - Telegram Userbot
-- [Project 2](https://github.com/silgimusicbot/project2) - Short description
-- [Project 3](https://github.com/silgimusicbot/project3) - Short description
+- [Project 2](https://github.com/silgimusicbot/aichatbot) - Telegram Chatbot
 
 
 
@@ -50,6 +49,7 @@ I am a software developer and technology enthusiast. I actively work in software
 ## 🔗 Social Media
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SilgiUserbot)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/huseyn.js)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SilgiTEAM)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/silgimusicbot)
 
